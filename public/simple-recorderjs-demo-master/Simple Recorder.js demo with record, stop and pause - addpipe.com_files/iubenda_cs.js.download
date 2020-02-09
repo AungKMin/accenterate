@@ -1,0 +1,1 @@
+!function(){"use strict";_iub.csConfigLegacy=!1,_iub.GVL=_iub.GVL||187;var e=document.createElement("script"),c=document.getElementsByTagName("script")[0];e.src="//cdn.iubenda.com/cookie_solution/iubenda_cs/core-a32bd25ffb63a196e46b0fd884b9c521.js",c.parentNode.insertBefore(e,c)}();
